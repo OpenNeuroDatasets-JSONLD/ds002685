@@ -470,4 +470,21 @@ onset	duration	trial_type
 706.96	2.021	fixation
 708.981	1.919	probe_BX
 710.9	0.52	cue_AX
-711.42	2.
+711.42	2.02	fixation
+713.44	2.059	probe_AX
+715.499	0.522	cue_AX
+716.021	2.019	fixation
+718.04	1.639	probe_AX
+719.679	0.521	cue_AX
+720.2	2.022	fixation
+722.222	1.778	probe_AX
+724.0	0.519	cue_AX
+724.519	2.021	fixation
+726.54	1.641	probe_AX
+728.181	0.52	cue_BX
+728.701	2.01	fixation
+730.711	1.778	probe_BX
+732.489	0.521	cue_AX
+733.01	2.021	fixation
+735.031	1.518	probe_AX
+736.549	8.616	end
