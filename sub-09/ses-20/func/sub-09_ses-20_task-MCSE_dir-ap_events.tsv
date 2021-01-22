@@ -61,4 +61,8 @@ onset	duration	trial_type
 311.1616	2.5174	low_salience_right
 314.7461	2.5174	low_salience_left
 318.3305	2.5174	low_salience_left
-321
+321.9149	2.5174	low_salience_right
+325.4993	2.5175	low_salience_left
+329.0838	2.5174	low_salience_left
+332.6682	2.5174	low_salience_right
+335.2023	21.2031	Bfix
